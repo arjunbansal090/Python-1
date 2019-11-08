@@ -1,6 +1,5 @@
 ''' Hacker Rank Problem Solving - 'Day of the Programmer'
 
-Function Description
 
 Complete the dayOfProgrammer function  below. It should return a string representing the date of the 256th day of the year given.
 
